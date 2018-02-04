@@ -1,0 +1,36 @@
+﻿#OBJAsNIENIE
+#n - nie
+#t - tak
+#eur - Europa
+#azj - Azja
+#amp - Ameryka Polnocna
+#ams - Ameryka Poludniowa
+#aus - Australia
+#afr - Afryka
+#
+#slodki -> dotyczy zapachu
+#slodki2-> dotyczy smaku
+#
+#ALKOHOL KOLOR PROCENT ZAPACH GAZOWANY POCHODZEn SMAK
+#
+Absynt:zielony:45-80:ziolowy:n:eur:gorzki
+Arak:bezbarwny:40-80:korzenny:n:azj:slodki2,gorzki
+Armagnac:brazowy,zloto,czerwony,rozowy:40-60:slodki:n:eur:slodki2
+Brandy:brazowy,czerwony,zloty:40-55:spirytusowy:n:eur,amp:gorzki
+Burbon:brazowy,zloty:40-70:spirytusowy:n:amp:gorzki
+Cachaca:brazowy,zolty:38-51:spirytusowy:n:ams:gorzki
+Calvados:brazowy,zolty,zloty:40-50:eteryczny:n:eur:slodki2
+Cydr:zielony,zolty,zloty:0-9:eteryczny:t:eur:slodki2
+Gin:bezbarwny:38-45:spirytusowy:n:eur:gorzki
+Grappa:bezbarwny,zolty,zloty:30-38:siarkowy:n:eur:kwasny,slodki2
+Miód Pitny:brazowy,zloty:0-15:slodki:n:eur:slodki2
+Ouzo:bezbarwny,bialy:30-40:spirytusowy:n:eur:slodki2
+Piwo:brazowy,zolty,zloty,czerwony,czarny,zielony:0-13:eteryczny,korzenny,ziolowy:t:eur,azj,amp,ams,afr,aus:gorzki,slodki2
+Rum:brazowy,zolty,zloty:30-40:spirytusowy:n:amp,ams:gorzki
+Sake:bezbarwne:13-60:slodki:n:azj:gorzki
+Spirytus:bezbarwny:88-99:spirytusowy:n:eur,azj,amp,ams,afr,aus:gorzki
+Szampan:bezbarwny,zolty,zloty:11-14:slodki,eteryczny:t:eur:slodki2
+Tequila:bezbarwny,zolty,zloty:35-50:slodki:n:amp,ams:gorzki
+Whiskey:brazowe,czerwone,zlote:38-55:slodki:n:eur:gorzki
+Wino:czerwone,rozowe,biale:8-14:slodki,eteryczny,siarkowy:n:eur,azj,amp,ams,afr,aus:slodki2
+Wódka:bezbarwne:40-40:spirytusowy:n:eur,azj,amp,ams,afr,aus:gorzki
